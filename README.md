@@ -1,0 +1,1 @@
+Dataset link: https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
