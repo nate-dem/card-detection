@@ -11,3 +11,5 @@ Before the model can classify each card, we:
 After this process, we use the model to classify each playing card in the original image. 
 
 Dataset used for training: https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
+
+Presentation slides: https://docs.google.com/presentation/d/1TWhKtZeNwcCDfU2GtJPWih7OLRoRUx7tXcZwGZ1axiE/edit#slide=id.p
