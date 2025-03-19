@@ -9,7 +9,7 @@ Before the model can classify each card, we:
   4. Isolate and extract each card in the original image
 
 After this process, we use the model to classify each playing card in the original image. 
-Our latest model achieved a rank accuracy of 92.3% and a suit accuracy of 90.2%.
+Our latest model achieved a rank accuracy of 94.6% and a suit accuracy of 93.7%.
 
 Dataset used for training: https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
 
